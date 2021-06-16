@@ -1,0 +1,50 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\MAGANG\\\\internship kampus indonesia batch 6\\\\penugasan\\\\mau dikumpulin\\\\pringovuejs-10\\\\pringo\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "D:\\\\MAGANG\\\\internship kampus indonesia batch 6\\\\penugasan\\\\mau dikumpulin\\\\pringovuejs-10\\\\pringo\\\\pages\\\\blog-details.vue",
+    "chunkName": "pages/blog-details"
+  },
+  {
+    "name": "blog-left-sidebar",
+    "path": "/blog-left-sidebar",
+    "component": "D:\\\\MAGANG\\\\internship kampus indonesia batch 6\\\\penugasan\\\\mau dikumpulin\\\\pringovuejs-10\\\\pringo\\\\pages\\\\blog-left-sidebar.vue",
+    "chunkName": "pages/blog-left-sidebar"
+  },
+  {
+    "name": "blog-right-sidebar",
+    "path": "/blog-right-sidebar",
+    "component": "D:\\\\MAGANG\\\\internship kampus indonesia batch 6\\\\penugasan\\\\mau dikumpulin\\\\pringovuejs-10\\\\pringo\\\\pages\\\\blog-right-sidebar.vue",
+    "chunkName": "pages/blog-right-sidebar"
+  },
+  {
+    "name": "case-details",
+    "path": "/case-details",
+    "component": "D:\\\\MAGANG\\\\internship kampus indonesia batch 6\\\\penugasan\\\\mau dikumpulin\\\\pringovuejs-10\\\\pringo\\\\pages\\\\case-details.vue",
+    "chunkName": "pages/case-details"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "D:\\\\MAGANG\\\\internship kampus indonesia batch 6\\\\penugasan\\\\mau dikumpulin\\\\pringovuejs-10\\\\pringo\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "service-details",
+    "path": "/service-details",
+    "component": "D:\\\\MAGANG\\\\internship kampus indonesia batch 6\\\\penugasan\\\\mau dikumpulin\\\\pringovuejs-10\\\\pringo\\\\pages\\\\service-details.vue",
+    "chunkName": "pages/service-details"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\MAGANG\\\\internship kampus indonesia batch 6\\\\penugasan\\\\mau dikumpulin\\\\pringovuejs-10\\\\pringo\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
